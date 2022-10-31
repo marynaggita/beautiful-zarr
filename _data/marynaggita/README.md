@@ -13,7 +13,6 @@
 
 - Test ZARR performance for CAB-LAB data cubes (https://notebook.community/CAB-LAB/cablab-cubeio/notebooks/zarr_cube)
 
-- Beyond netCDF: Cloud Native Climate Data with Zarr and XArray(https://ui.adsabs.harvard.edu/abs/2018AGUFMIN33A..06A/abstract)
 
 ## Zarr Data Visualisation
 - Use Case: Study Amazon Estuaries with Data from the EOSDIS Cloud(https://github.com/podaac/tutorials/blob/master/notebooks/SWOT-EA-2021/Estuary_explore_inCloud_zarr.ipynb)
